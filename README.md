@@ -10,3 +10,6 @@ git clone <this-repo>
 npm install
 npm start
 ```
+# Screenshots
+
+![alt text](./screenshots/s1.png 'Screenshot')  
